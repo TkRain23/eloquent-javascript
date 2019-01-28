@@ -87,7 +87,7 @@ The boolean type has two Values
 * True
 * False
 
-*** Comparison ***
+* Comparison *
 ```JavaScript
 console.log(6 > 9) // returns False (numeric)
 console.log('Aqua' > 'Lava') // returns True (alphabetic)

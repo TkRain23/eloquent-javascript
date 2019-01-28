@@ -14,7 +14,7 @@ console.log(ten); // returns 10
 
 Tip: Bindings are like tentacles. They grasp things as opposed to containing them like a box.
 
-*** Multiple Binding ***
+* Multiple Binding *
 
 Use commas to define multiple bindings
 ```JavaScript
@@ -22,7 +22,7 @@ let potato = 1, tomato = 2
 console.log(potato + tomato) // returns 3
 ```
 
-*** Theres more! ***
+* Theres more! *
 Besides `let`, you can also use `const` and `var`
 
 `const` = defines a constant binding, which points at the same value for as long as it lives. Usually used for names + easy reference.
@@ -62,21 +62,21 @@ When a function produces a value, it is said to return that value
 
 ### Control Flow
 
-*** Single Line Control Flow ***
+* Single Line Control Flow *
 
 A straight road without any conditionals
 
-*** Conditional Execution ***
+* Conditional Execution *
 
 A branching road where a program takes the proper branch based on the situation (conditional)
 
-*** Blocks ***
+* Blocks *
 
 Braces and Brackets (`{()}`) used for a number of statements into a single statement
 
 This single statement is known as a block
 
-*** If/Else ***
+* If/Else *
 
 Use these keywords together to create separate, alternative execution paths
 
@@ -118,7 +118,7 @@ for(let x = 0; x < 999999; x++)
 }
 ```
 
-*** Continue ***
+* Continue *
 
 This keyword, similarly to break, jumps out of the body, and continues with the loop's next iteration
 
